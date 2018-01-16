@@ -42,6 +42,12 @@ public class app {
             System.out.println(teamOne.displayPlayerInfo(i));
             i++;
         }
+        //Instantiate new scanner object
+        Scanner in = new Scanner(System.in);
+        //Ask user to search for a player on team by position
+        System.out.print("\nSearch for player by position (QB, RB, CB, TE, DE, WR, DT): ");
+        placeHolder = in.nextLine();
+        System.out.println(teamOne.search(placeHolder)); 
     }
     
 }
