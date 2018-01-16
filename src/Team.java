@@ -23,7 +23,7 @@ public class Team {
              + "\nAge: " + arrayPlayers[num].age;
     }
     
-    public String getPlayerInfo(String placeHolderPosition) {
+    public String search(String placeHolderPosition) {
         Player player = null;
         for (Player arrayPlayer : arrayPlayers) {
             if (arrayPlayer.position.equals(placeHolderPosition)) {
