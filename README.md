@@ -42,7 +42,7 @@ App will create 11 football players (you can place them in an array or ArrayList
 	- Display the team rushing yards
 	- use the football team instance (object) new search method to return an instance of a football player.
 		- Display the returned player info or an error message if the player is not found
-```
+
 Player class
 	- 5 attributes from your choice
 	- a method that returns the complete info about the player
@@ -63,3 +63,5 @@ Team class
 	- a method that
 		- return the instant number of rushing yards of the team
 		- this number is a sum of each player rushing yards
+```
+		
