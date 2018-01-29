@@ -64,4 +64,25 @@ Team class
 		- return the instant number of rushing yards of the team
 		- this number is a sum of each player rushing yards
 ```
+### Homework 3 
+
+
+
+#### Description
+	- January 28, 2018
+Following the situation depicted below (picture on CANVAS showing person, student, football player, and college football player in diamond formation):
+
+- you have access to a footballPlayer class, a student class and a person class
+- you need to implement (yes, real working Java code) a college football player class that incorporates somehow the three     classes (footballPlayer, student and person).
+- create the object collegeFootballPlayer and display its information
+  -- If Java had multiple inheritance, the problem would be solved, but Java doesn't.
+```
+Choose between the possible solutions, one using abstract classes and another using interfaces or a combination of both.
+
+Write up also a short explanation on why you used one solution and not the others. Compare your solution with the solutions we used in the examples in this lesson.
+
+Feel free to use or reuse any of the lesson examples or previous labs.
+
+---
+
 		
